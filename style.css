@@ -10,3 +10,8 @@ img{
 .carousel{
 width:200px; height:200px;
 }
+
+.bg-image{
+background-repeat:no-repeat;
+
+}
