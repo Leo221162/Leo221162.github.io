@@ -22,3 +22,7 @@ background-position: center;
 .col-sm{
 justify-content:center;
 }
+
+.card{
+    margin-right: 10px;
+}
